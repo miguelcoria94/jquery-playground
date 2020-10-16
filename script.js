@@ -1,2 +1,3 @@
-$("h1").css("color", "red");
-console.log()
+$(document).ready(function(){
+    $("h1").css("color", "red");
+})
